@@ -7,7 +7,7 @@ const Restuarent = () => {
   const [menuData,setMenuData]=useState(Menu);
   const filterItem=(category)=>{
     const updatedList= Menu.filter((curElem)=>{
-      return curElem.category===category;
+      return curElem.category === category;
     });
     setMenuData(updatedList)
   };
