@@ -81,5 +81,14 @@ const Menu=[
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
+  {
+    id: 10,
+    image: "../images/samosa.jpg",
+    name: "samaso 2",
+    category: "evening",
+    price: "20₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
 ];
 export default Menu;
